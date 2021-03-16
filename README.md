@@ -6,4 +6,4 @@ As I progress through various coding languages, I will store the answers to that
 Away I ago!
 
 
-following tht guide to test Pull
+following the guide to test Pull
